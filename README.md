@@ -1,5 +1,6 @@
 Hello everyone !
 
 I have potential to do , as a developer !
+I have interests in finding bugs !
 
-Dreams are greater than Mount Everest !
+#BackendDeveloper #problemSolver
