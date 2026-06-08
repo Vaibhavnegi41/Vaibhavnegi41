@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:negivaibhav2005@gmail.com)&nbsp;
 [![Location](https://img.shields.io/badge/Moradabad%2C%20UP-India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Moradabad)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=5343B7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+VertexMera+%E2%80%94+CRAG+%2B+LangGraph+chatbot+%F0%9F%A4%96;Python+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+IoT" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=5343B7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Python+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+IoT" alt="Typing SVG"/>
 
 </div>
 
@@ -25,8 +25,7 @@ class VaibhavNegi:
     degree       = "B.Tech CSE (IoT) @ MIT Moradabad  |  CGPA: 8.5"
     graduation   = "2026"
     focus        = ["GenAI Systems", "RAG Pipelines", "Backend APIs", "IoT Automation"]
-    currently    = "🔨 Building VertexMera — Corrective RAG chatbot with LangGraph"
-    fun_fact     = "I build AI brains AND amphibious smart home robots 🤖🏠"
+    currently    = "Working on AI systems , Full-Stack Development and IoT Automation"
 ```
 
 ---
@@ -81,14 +80,6 @@ class VaibhavNegi:
 
 ### 🧠 VertexMera — Corrective RAG System &nbsp; `May 2026`
 > **LangGraph · Pinecone · Groq (LLaMA 3.1) · Tavily · Streamlit**
-
-```
-Query ──► Retrieve Docs ──► Grade Relevance ──┬──► RAG Answer ──────────────────┐
-                                               │                                  │
-                                               └──► Web Search Fallback ──────────┤
-                                                                                   ▼
-                                                                    Hallucination Check ──► ✅ Final Answer
-```
 
 - 🔁 LangGraph state machine with automatic web-search fallback when retrieved context scores low
 - 🔍 Pinecone vector store + `sentence-transformers/all-MiniLM-L6-v2` (384-dim) for semantic retrieval
@@ -159,17 +150,6 @@ Query ──► Retrieve Docs ──► Grade Relevance ──┬──► RAG A
 | 🤖 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) | Aug 2025 |
 | 🔬 | IIRA 5.0 — IoT, Robotics & Automation | MIT Moradabad, CSE | May 2025 |
 
----
-
-## 🎯 Currently Working On
-
-```
-┌─────────────────────────────────────────────────────┐
-│  🔨 VertexMera          → Resume tester + image gen  │
-│  🧩 MCP Server Dev      → FastMCP Cloud deployments  │
-│  ⚛️  React + Redux RTK   → Vite + Tailwind CSS v4     │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
 
