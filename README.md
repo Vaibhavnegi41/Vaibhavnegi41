@@ -1,0 +1,184 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5343B7&height=120&section=header&text=Vaibhav%20Negi&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20·%20Backend%20Dev%20·%20IoT%20Builder&descAlignY=65&descSize=14" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-negi-972342293)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vaibhavnegi41)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:negivaibhav2005@gmail.com)&nbsp;
+[![Location](https://img.shields.io/badge/Moradabad%2C%20UP-India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Moradabad)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=5343B7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+VertexMera+%E2%80%94+CRAG+%2B+LangGraph+chatbot+%F0%9F%A4%96;Python+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+IoT" alt="Typing SVG"/>
+
+</div>
+
+---
+
+## `$ whoami`
+
+```python
+class VaibhavNegi:
+    location     = "Moradabad, Uttar Pradesh 🇮🇳"
+    degree       = "B.Tech CSE (IoT) @ MIT Moradabad  |  CGPA: 8.5"
+    graduation   = "2026"
+    focus        = ["GenAI Systems", "RAG Pipelines", "Backend APIs", "IoT Automation"]
+    currently    = "🔨 Building VertexMera — Corrective RAG chatbot with LangGraph"
+    fun_fact     = "I build AI brains AND amphibious smart home robots 🤖🏠"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🧠 GenAI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-5343B7?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6E40C9?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**🌐 Frontend & IoT**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+### 🧠 VertexMera — Corrective RAG System &nbsp; `May 2026`
+> **LangGraph · Pinecone · Groq (LLaMA 3.1) · Tavily · Streamlit**
+
+```
+Query ──► Retrieve Docs ──► Grade Relevance ──┬──► RAG Answer ──────────────────┐
+                                               │                                  │
+                                               └──► Web Search Fallback ──────────┤
+                                                                                   ▼
+                                                                    Hallucination Check ──► ✅ Final Answer
+```
+
+- 🔁 LangGraph state machine with automatic web-search fallback when retrieved context scores low
+- 🔍 Pinecone vector store + `sentence-transformers/all-MiniLM-L6-v2` (384-dim) for semantic retrieval
+- ⚡ Groq (LLaMA 3.3-70b) for sub-second inference · Dual prompt strategy for RAG vs web-sourced answers
+
+[![View Project](https://img.shields.io/badge/View%20Project-%235343B7?style=flat-square&logo=streamlit&logoColor=white)](#)
+
+---
+
+### 🏥 PulseHealth — AI Health Prediction System &nbsp; `Jan 2026`
+> **Python · FastAPI · ReactJS · MySQL · JWT · Scikit-learn**
+
+- 🎯 **89.5% accuracy** on Diabetes + Heart Disease prediction trained on **250,000+ patient records**
+- 🔢 Composite health score across **15 indicators** (BMI, BP, cholesterol, glucose, and more)
+- 🔐 Secure JWT auth with MySQL connection pooling and full prediction history via FastAPI
+
+[![View Project](https://img.shields.io/badge/View%20Project-%231D9E75?style=flat-square&logoColor=white)](#)
+
+---
+
+### 🏠 Hydra Smart Home — Amphibious IoT Robot &nbsp; `Jul 2025`
+> **ESP32 · ESP8266 · OpenCV · DeepFace · RFID · Alexa / Sinric Pro**
+
+- 🚗 Dual-terrain mobility — **motorized wheels** (land) + **paddle propulsion** (water)
+- 🔒 AI face recognition (OpenCV + DeepFace) + RFID for secure, keyless home entry
+- 🗣️ Alexa voice control for hands-free home automation accessible to elderly & differently-abled users
+
+[![View Project](https://img.shields.io/badge/View%20Project-%23EF9F27?style=flat-square&logoColor=white)](#)
+
+---
+
+### 💬 MoodLens — AI Sentiment Analyzer &nbsp; `Mar 2026`
+> **LangChain · Qwen3 LLM · HuggingFace · Streamlit · Pydantic**
+
+- 🔗 Dual-chain pipeline — Chain 1 detects sentiment → Chain 2 routes via `RunnableBranch` to tailored suggestions
+- 📊 Structured JSON output: sentiment label, rating (0–10), AI-generated summary
+- 🎨 Glassmorphism dark UI with color-coded result cards and real-time sentiment metrics
+
+[![View Project](https://img.shields.io/badge/View%20Project-%23D4537E?style=flat-square&logoColor=white)](#)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vaibhavnegi41&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=5343B7&icon_color=1D9E75"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavnegi41&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5343B7"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Vaibhavnegi41&theme=tokyonight&hide_border=true&background=0d1117&ring=5343B7&fire=D85A30&currStreakLabel=1D9E75"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavnegi41&theme=tokyo-night&bg_color=0d1117&color=5343B7&line=1D9E75&point=D85A30&hide_border=true"/>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+| 🏆 | Certificate | Issuer | Date |
+|:--:|---|---|:--:|
+| ⭐ | Star Performer — Python with IoT Internship | Summer Program, Lucknow | Jun–Aug 2025 |
+| 🤖 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) | Aug 2025 |
+| 🔬 | IIRA 5.0 — IoT, Robotics & Automation | MIT Moradabad, CSE | May 2025 |
+
+---
+
+## 🎯 Currently Working On
+
+```
+┌─────────────────────────────────────────────────────┐
+│  🔨 VertexMera          → Resume tester + image gen  │
+│  🧩 MCP Server Dev      → FastMCP Cloud deployments  │
+│  ⚛️  React + Redux RTK   → Vite + Tailwind CSS v4     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" width="100%"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Vaibhavnegi41&color=5343B7&style=flat-square&label=profile+views)
+
+*"Building intelligent systems — one pipeline at a time."*
+
+</div>
