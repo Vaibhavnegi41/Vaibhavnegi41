@@ -24,7 +24,6 @@ class VaibhavNegi:
     location     = "Moradabad, Uttar Pradesh 🇮🇳"
     degree       = "B.Tech CSE (IoT) @ MIT Moradabad (AKTU)  |  CGPA: 8.5"
     graduation   = "2026"
-    role         = "React Developer Intern @ Wyreflow Technologies"
     focus        = ["GenAI Systems", "RAG Pipelines", "Backend APIs", "IoT Automation"]
     currently    = "Working on AI systems, Full-Stack Development, and IoT Automation"
 ```
