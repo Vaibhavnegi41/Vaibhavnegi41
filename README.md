@@ -21,7 +21,7 @@
 
 ```python
 class VaibhavNegi:
-    location     = "Moradabad, Uttar Pradesh 🇮🇳"
+    location     = "Moradabad, Uttar Pradesh"
     degree       = "B.Tech CSE (IoT) @ MIT Moradabad (AKTU)  |  CGPA: 8.5"
     graduation   = "2026"
     role         = "Full-Stack Developer | AI Engineer | IoT Builder"
@@ -31,27 +31,27 @@ class VaibhavNegi:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-🔥 **Core Languages**
+**Core Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" /><br/><br/>
 
-🎨 **Frontend Development**
+**Frontend Development**
 
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma&theme=dark" /><br/><br/>
 
-⚡ **Full-Stack &amp; Backend Development**
+**Full-Stack &amp; Backend Development**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mysql,postgres&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,mysql,postgres&theme=dark" /><br/><br/>
 
-📡 **IoT &amp; Embedded**
+**IoT &amp; Embedded**
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" /><br/><br/>
 
-🧰 **Dev Tools**
+**Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
@@ -74,53 +74,53 @@ class VaibhavNegi:
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧠 VertexMera — Corrective RAG System &nbsp; `May 2026`
+### VertexMera — Corrective RAG System &nbsp; `May 2026`
 > **LangGraph · Pinecone · Groq (LLaMA 3.1) · Tavily · Streamlit**
 
-- 🔁 LangGraph state machine with automatic web-search fallback when retrieved context scores low
-- 🔍 Pinecone vector store + HuggingFace embeddings for semantic retrieval
-- ⚡ Groq (LLaMA 3.1) for fast inference · Dual prompt strategy for RAG vs web-sourced answers
+- LangGraph state machine with automatic web-search fallback when retrieved context scores low
+- Pinecone vector store + HuggingFace embeddings for semantic retrieval
+- Groq (LLaMA 3.1) for fast inference · Dual prompt strategy for RAG vs web-sourced answers
 
 [![View Project](https://img.shields.io/badge/View%20Project-%231DB954?style=flat-square&logo=streamlit&logoColor=white)](https://vertexmera-crag-system.streamlit.app/)
 
 ---
 
-### 🏥 PulseHealth — AI Health Prediction System &nbsp; `Jan 2026`
+### PulseHealth — AI Health Prediction System &nbsp; `Jan 2026`
 > **Python · FastAPI · ReactJS · MySQL · JWT**
 
-- 🎯 **89.5% accuracy** on Diabetes + Heart Disease prediction trained on **250,000+ patient records**
-- 🔢 Composite health score across **15 indicators** (BMI, BP, cholesterol, and more)
-- 🔐 Secure JWT auth with MySQL connection pooling and full prediction history via FastAPI
+- **89.5% accuracy** on Diabetes + Heart Disease prediction trained on **250,000+ patient records**
+- Composite health score across **15 indicators** (BMI, BP, cholesterol, and more)
+- Secure JWT auth with MySQL connection pooling and full prediction history via FastAPI
 
 [![View Project](https://img.shields.io/badge/View%20Project-%231D9E75?style=flat-square&logoColor=white)](https://pulsehealth-fron.onrender.com)
 
 ---
 
-### 🏠 Hydra Smart Home — Amphibious IoT Robot &nbsp; `Jul 2025`
+### Hydra Smart Home — Amphibious IoT Robot &nbsp; `Jul 2025`
 > **ESP32 · ESP8266 · OpenCV · DeepFace · RFID · Alexa / Sinric Pro**
 
-- 🚗 Dual-terrain mobility — motorized wheels (land) + paddle propulsion (water)
-- 🔒 AI face recognition (OpenCV + DeepFace) + RFID for secure, keyless home entry
-- 🗣️ Alexa voice control for hands-free home automation accessible to elderly & differently-abled users
+- Dual-terrain mobility — motorized wheels (land) + paddle propulsion (water)
+- AI face recognition (OpenCV + DeepFace) + RFID for secure, keyless home entry
+- Alexa voice control for hands-free home automation accessible to elderly & differently-abled users
 
 [![View Project](https://img.shields.io/badge/View%20Project-%23EF9F27?style=flat-square&logoColor=white)](https://github.com/Vaibhavnegi41/Hydra-Smart-Home)
 
 ---
 
-### 💬 MoodLens — AI Sentiment Analyzer &nbsp; `Mar 2026`
+### MoodLens — AI Sentiment Analyzer &nbsp; `Mar 2026`
 > **LangChain · Qwen3 LLM · HuggingFace · Streamlit · Pydantic**
 
-- 🔗 Dual-chain pipeline — Chain 1 detects sentiment → Chain 2 routes via `RunnableBranch` to tailored suggestions
-- 📊 Structured JSON output: sentiment label, rating (0–10), AI-generated summary
-- 🎨 Glassmorphism dark UI with color-coded result cards and real-time sentiment metrics
+- Dual-chain pipeline — Chain 1 detects sentiment → Chain 2 routes via `RunnableBranch` to tailored suggestions
+- Structured JSON output: sentiment label, rating (0–10), AI-generated summary
+- Glassmorphism dark UI with color-coded result cards and real-time sentiment metrics
 
 [![View Project](https://img.shields.io/badge/View%20Project-%23D4537E?style=flat-square&logoColor=white)](https://sentiment-analysis-langchain-1.onrender.com/)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -142,20 +142,20 @@ class VaibhavNegi:
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-| 🏆 | Certificate | Issuer | Date |
+| # | Certificate | Issuer | Date |
 |:--:|---|---|:--:|
-| ⭐ | Star Performer — Python with IoT Internship | Summer Program, Lucknow | Jun–Aug 2025 |
-| 🤖 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) | Aug 2025 |
-| 🔬 | IIRA 5.0 — IoT, Robotics & Automation | MIT Moradabad, CSE | May 2025 |
+| 1 | Star Performer — Python with IoT Internship | Summer Program, Lucknow | Jun–Aug 2025 |
+| 2 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) | Aug 2025 |
+| 3 | IIRA 5.0 — IoT, Robotics & Automation | MIT Moradabad, CSE | May 2025 |
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🧩 Solved **300+ DSA problems** across LeetCode, HackerRank, and GeeksforGeeks
-- 🏀 **Two-time Silver Medalist** in Basketball at the AKTU Zonals level
+- Solved **300+ DSA problems** across LeetCode, HackerRank, and GeeksforGeeks
+- **Two-time Silver Medalist** in Basketball at the AKTU Zonals level
 
 ---
 
