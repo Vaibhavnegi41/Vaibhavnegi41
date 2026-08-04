@@ -142,18 +142,8 @@ class VaibhavNegi:
 
 ---
 
-## Certifications
-
-| # | Certificate | Issuer | Date |
-|:--:|---|---|:--:|
-| 1 | Star Performer — Python with IoT Internship | Summer Program, Lucknow | Jun–Aug 2025 |
-| 2 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) | Aug 2025 |
-| 3 | IIRA 5.0 — IoT, Robotics & Automation | MIT Moradabad, CSE | May 2025 |
-
----
-
 ## Achievements
-
+- Star Performer — Python with IoT Internship
 - Solved **300+ DSA problems** across LeetCode, HackerRank, and GeeksforGeeks
 - **Two-time Silver Medalist** in Basketball at the AKTU Zonals level
 
