@@ -22,10 +22,11 @@
 ```python
 class VaibhavNegi:
     location     = "Moradabad, Uttar Pradesh 🇮🇳"
-    degree       = "B.Tech CSE (IoT) @ MIT Moradabad  |  CGPA: 8.5"
+    degree       = "B.Tech CSE (IoT) @ MIT Moradabad (AKTU)  |  CGPA: 8.5"
     graduation   = "2026"
+    role         = "React Developer Intern @ Wyreflow Technologies"
     focus        = ["GenAI Systems", "RAG Pipelines", "Backend APIs", "IoT Automation"]
-    currently    = "Working on AI systems , Full-Stack Development and IoT Automation"
+    currently    = "Working on AI systems, Full-Stack Development, and IoT Automation"
 ```
 
 ---
@@ -36,43 +37,73 @@ class VaibhavNegi:
 <tr>
 <td valign="top" width="33%">
 
-**🧠 GenAI & LLM**
+**🌐 Frontend Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**⌨️ Core Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Backend and APIs**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white)
+
+**🧠 GenAI & LLM Technologies**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-5343B7?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6E40C9?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**⚙️ Backend**
+**📡 IoT Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**🌐 Frontend & IoT**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-00979D?style=flat-square&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-03C3E0?style=flat-square&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-D33033?style=flat-square&logoColor=white)
+
+**🔧 Tools and Libraries**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Experience
+
+### Wyreflow Technologies — React Developer Intern &nbsp; `June 2026 – Present`
+> **Remote**
+
+- 💼 Working on **client-based projects**, delivering production-ready frontend features for a React-based hiring platform
+- 🧹 Improving **codebase quality** by resolving SonarQube/SonarCloud violations, including accessibility fixes and refactoring for maintainability
+- 🔐 Working on **role-based access management** — permission cascade logic and dynamic sidebar filtering for the admin panel
+- ⚡ Improving **frontend performance** through code splitting and other optimization techniques to reduce load times
 
 ---
 
@@ -82,32 +113,32 @@ class VaibhavNegi:
 > **LangGraph · Pinecone · Groq (LLaMA 3.1) · Tavily · Streamlit**
 
 - 🔁 LangGraph state machine with automatic web-search fallback when retrieved context scores low
-- 🔍 Pinecone vector store + `sentence-transformers/all-MiniLM-L6-v2` (384-dim) for semantic retrieval
-- ⚡ Groq (LLaMA 3.3-70b) for sub-second inference · Dual prompt strategy for RAG vs web-sourced answers
+- 🔍 Pinecone vector store + HuggingFace embeddings for semantic retrieval
+- ⚡ Groq (LLaMA 3.1) for fast inference · Dual prompt strategy for RAG vs web-sourced answers
 
-[![View Project](https://img.shields.io/badge/View%20Project-%235343B7?style=flat-square&logo=streamlit&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View%20Project-%235343B7?style=flat-square&logo=streamlit&logoColor=white)](https://vertexmera-crag-system.streamlit.app/)
 
 ---
 
 ### 🏥 PulseHealth — AI Health Prediction System &nbsp; `Jan 2026`
-> **Python · FastAPI · ReactJS · MySQL · JWT · Scikit-learn**
+> **Python · FastAPI · ReactJS · MySQL · JWT**
 
 - 🎯 **89.5% accuracy** on Diabetes + Heart Disease prediction trained on **250,000+ patient records**
-- 🔢 Composite health score across **15 indicators** (BMI, BP, cholesterol, glucose, and more)
+- 🔢 Composite health score across **15 indicators** (BMI, BP, cholesterol, and more)
 - 🔐 Secure JWT auth with MySQL connection pooling and full prediction history via FastAPI
 
-[![View Project](https://img.shields.io/badge/View%20Project-%231D9E75?style=flat-square&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View%20Project-%231D9E75?style=flat-square&logoColor=white)](https://pulsehealth-fron.onrender.com)
 
 ---
 
 ### 🏠 Hydra Smart Home — Amphibious IoT Robot &nbsp; `Jul 2025`
 > **ESP32 · ESP8266 · OpenCV · DeepFace · RFID · Alexa / Sinric Pro**
 
-- 🚗 Dual-terrain mobility — **motorized wheels** (land) + **paddle propulsion** (water)
+- 🚗 Dual-terrain mobility — motorized wheels (land) + paddle propulsion (water)
 - 🔒 AI face recognition (OpenCV + DeepFace) + RFID for secure, keyless home entry
 - 🗣️ Alexa voice control for hands-free home automation accessible to elderly & differently-abled users
 
-[![View Project](https://img.shields.io/badge/View%20Project-%23EF9F27?style=flat-square&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View%20Project-%23EF9F27?style=flat-square&logoColor=white)](https://github.com/Vaibhavnegi41/Hydra-Smart-Home)
 
 ---
 
@@ -118,7 +149,7 @@ class VaibhavNegi:
 - 📊 Structured JSON output: sentiment label, rating (0–10), AI-generated summary
 - 🎨 Glassmorphism dark UI with color-coded result cards and real-time sentiment metrics
 
-[![View Project](https://img.shields.io/badge/View%20Project-%23D4537E?style=flat-square&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View%20Project-%23D4537E?style=flat-square&logoColor=white)](https://sentiment-analysis-langchain-1.onrender.com/)
 
 ---
 
@@ -140,6 +171,8 @@ class VaibhavNegi:
 
 </div>
 
+> **Note:** If the stats cards above show 0/404 instead of real numbers, it's usually a temporary GitHub API rate-limit or cache issue on the `github-readme-stats` server, not a markdown problem — it typically resolves after a few hours or a page refresh.
+
 ---
 
 ## 📜 Certifications
@@ -150,6 +183,12 @@ class VaibhavNegi:
 | 🤖 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) | Aug 2025 |
 | 🔬 | IIRA 5.0 — IoT, Robotics & Automation | MIT Moradabad, CSE | May 2025 |
 
+---
+
+## 🏆 Achievements
+
+- 🧩 Solved **300+ DSA problems** across LeetCode, HackerRank, and GeeksforGeeks
+- 🏀 **Two-time Silver Medalist** in Basketball at the AKTU Zonals level
 
 ---
 
