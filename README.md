@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5343B7&height=120&section=header&text=Vaibhav%20Negi&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20·%20Backend%20Dev%20·%20IoT%20Builder&descAlignY=65&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=header&text=Vaibhav%20Negi&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20·%20Full-Stack%20Developer%20·%20IoT%20Builder&descAlignY=65&descSize=14" width="100%"/>
 
 </div>
 
@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:negivaibhav2005@gmail.com)&nbsp;
 [![Location](https://img.shields.io/badge/Moradabad%2C%20UP-India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Moradabad)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=5343B7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Python+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+IoT" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=1DB954&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Python+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+IoT" alt="Typing SVG"/>
 
 </div>
 
@@ -24,85 +24,53 @@ class VaibhavNegi:
     location     = "Moradabad, Uttar Pradesh 🇮🇳"
     degree       = "B.Tech CSE (IoT) @ MIT Moradabad (AKTU)  |  CGPA: 8.5"
     graduation   = "2026"
+    role         = "Full-Stack Developer | AI Engineer | IoT Builder"
     focus        = ["GenAI Systems", "RAG Pipelines", "Backend APIs", "IoT Automation"]
     currently    = "Working on AI systems, Full-Stack Development, and IoT Automation"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-**🌐 Frontend Technologies**
+🔥 **Core Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark" /><br/><br/>
 
-**⌨️ Core Languages**
+🎨 **Frontend Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma&theme=dark" /><br/><br/>
 
-</td>
-<td valign="top" width="33%">
+⚡ **Full-Stack &amp; Backend Development**
 
-**⚙️ Backend and APIs**
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mysql,postgres&theme=dark" /><br/><br/>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white)
+📡 **IoT &amp; Embedded**
 
-**🧠 GenAI & LLM Technologies**
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" /><br/><br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-5343B7?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-6E40C9?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+🧰 **Dev Tools**
 
-</td>
-<td valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-**📡 IoT Tools**
+</div>
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-00979D?style=flat-square&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
-![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-03C3E0?style=flat-square&logoColor=white)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-D33033?style=flat-square&logoColor=white)
+<br/>
 
-**🔧 Tools and Libraries**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-### Wyreflow Technologies — React Developer Intern &nbsp; `June 2026 – Present`
-> **Remote**
-
-- 💼 Working on **client-based projects**, delivering production-ready frontend features for a React-based hiring platform
-- 🧹 Improving **codebase quality** by resolving SonarQube/SonarCloud violations, including accessibility fixes and refactoring for maintainability
-- 🔐 Working on **role-based access management** — permission cascade logic and dynamic sidebar filtering for the admin panel
-- ⚡ Improving **frontend performance** through code splitting and other optimization techniques to reduce load times
+> **Note:** GenAI/data tools not covered by the icon set above are listed here since skillicons.dev doesn't have official icons for them yet:
+>
+> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+> ![LangGraph](https://img.shields.io/badge/LangGraph-1DB954?style=flat-square&logoColor=white)
+> ![RAG](https://img.shields.io/badge/RAG-1DB954?style=flat-square&logoColor=white)
+> ![MCP](https://img.shields.io/badge/MCP-1DB954?style=flat-square&logoColor=white)
+> ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+> ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+> ![NodeMCU](https://img.shields.io/badge/NodeMCU-00979D?style=flat-square&logoColor=white)
+> ![Blynk IoT](https://img.shields.io/badge/Blynk%20IoT-03C3E0?style=flat-square&logoColor=white)
 
 ---
 
@@ -115,7 +83,7 @@ class VaibhavNegi:
 - 🔍 Pinecone vector store + HuggingFace embeddings for semantic retrieval
 - ⚡ Groq (LLaMA 3.1) for fast inference · Dual prompt strategy for RAG vs web-sourced answers
 
-[![View Project](https://img.shields.io/badge/View%20Project-%235343B7?style=flat-square&logo=streamlit&logoColor=white)](https://vertexmera-crag-system.streamlit.app/)
+[![View Project](https://img.shields.io/badge/View%20Project-%231DB954?style=flat-square&logo=streamlit&logoColor=white)](https://vertexmera-crag-system.streamlit.app/)
 
 ---
 
@@ -156,17 +124,17 @@ class VaibhavNegi:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vaibhavnegi41&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=5343B7&icon_color=1D9E75"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vaibhavnegi41&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1DB954&icon_color=1D9E75"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavnegi41&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5343B7"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavnegi41&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1DB954"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Vaibhavnegi41&theme=tokyonight&hide_border=true&background=0d1117&ring=5343B7&fire=D85A30&currStreakLabel=1D9E75"/>
+<img src="https://streak-stats.demolab.com?user=Vaibhavnegi41&theme=tokyonight&hide_border=true&background=0d1117&ring=1DB954&fire=1D9E75&currStreakLabel=1D9E75"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavnegi41&theme=tokyo-night&bg_color=0d1117&color=5343B7&line=1D9E75&point=D85A30&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavnegi41&theme=tokyo-night&bg_color=0d1117&color=1DB954&line=1D9E75&point=D85A30&hide_border=true"/>
 
 </div>
 
@@ -193,9 +161,9 @@ class VaibhavNegi:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=80&section=footer" width="100%"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Vaibhavnegi41&color=5343B7&style=flat-square&label=profile+views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Vaibhavnegi41&color=1DB954&style=flat-square&label=profile+views)
 
 *"Building intelligent systems — one pipeline at a time."*
 
